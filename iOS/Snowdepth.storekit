@@ -1,0 +1,27 @@
+{
+  "identifier": "Snowdepth",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "10000001",
+      "localizations": [
+        {
+          "description": "Season-total charts and year-over-year comparison",
+          "displayName": "Snowdepth Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.snowdepth.pro",
+      "referenceName": "Snowdepth Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
