@@ -6,5 +6,4 @@ struct SnowdepthEntry: Identifiable, Codable, Equatable {
     var date: Date
     var depth: String
     var notes: String
-    var notes: String = ""
 }
